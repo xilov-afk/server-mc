@@ -1,0 +1,144 @@
+2025-11-30 13:05:17,951 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.3.10, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+2025-11-30 13:05:17,955 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.17 by Ubuntu
+2025-11-30 13:05:18,313 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server-mc/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2316!/ Service=ModLauncher Env=SERVER
+2025-11-30 13:05:18,732 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(51)[m: No dependencies to load found. Skipping!
+2025-11-30 13:05:20,893 [32mINFO [m [m[main][m [mmixin.info(97)[m: Compatibility level set to JAVA_17
+2025-11-30 13:05:20,947 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
+2025-11-30 13:05:21,017 [33mWARN [m [m[main][m [mmixin.warn(132)[m: Reference map 'cristellib-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+2025-11-30 13:05:21,018 [33mWARN [m [m[main][m [mmixin.warn(132)[m: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+2025-11-30 13:05:21,114 [32mINFO [m [m[main][m [mterralith.createConfig(43)[m: No config file detected. Creating one...
+2025-11-30 13:05:21,122 [32mINFO [m [m[main][m [mterralith.getMode(22)[m: Loading config for 'terrablender_compatibility': TRUE
+2025-11-30 13:05:21,123 [32mINFO [m [m[main][m [mterralith.createConfig(43)[m: No config file detected. Creating one...
+2025-11-30 13:05:21,124 [32mINFO [m [m[main][m [mterralith.getCursed(43)[m: Loading config for 'cursed_skylands': NONE
+2025-11-30 13:05:29,231 [32mINFO [m [m[modloading-worker-0][m [mterralith.<init>(29)[m: Terrablender detected
+2025-11-30 13:05:29,281 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(143)[m: Forge mod loading, version 40.3.10, for MC 1.18.2 with MCP 20220404.173914
+2025-11-30 13:05:29,282 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(41)[m: MinecraftForge v40.3.10 Initialized
+2025-11-30 13:05:29,495 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(17)[m: EventDispatcherRegistry initialized
+2025-11-30 13:05:30,010 [32mINFO [m [m[modloading-worker-0][m [mCristel Lib.dumpDirect(134)[m: dumping Runtime Pack's assets and data
+2025-11-30 13:05:32,905 [32mINFO [m [m[modloading-worker-0][m [mp.b.BYG.commonLoad(58)[m: BYG: "Common Setup" Event Complete!
+2025-11-30 13:05:32,924 [32mINFO [m [m[modloading-worker-0][m [mp.b.BYG.readConfig(118)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/end-biomes.json5" was read.
+2025-11-30 13:05:32,971 [32mINFO [m [m[modloading-worker-0][m [mp.b.BYG.readConfig(119)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/nether-biomes.json5" was read.
+2025-11-30 13:05:33,191 [32mINFO [m [m[modloading-worker-0][m [mp.b.BYG.readConfig(102)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/overworld/byg-overworld-biomes.json5" was read.
+2025-11-30 13:05:33,206 [32mINFO [m [m[modloading-worker-0][m [mp.b.BYG.readConfig(117)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/byg-biome-dictionary.json" was read.
+2025-11-30 13:05:33,242 [32mINFO [m [m[modloading-worker-0][m [mp.b.BYG.lambda$readConfig$2(57)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+2025-11-30 13:05:33,294 [32mINFO [m [m[modloading-worker-0][m [mp.b.BYG.lambda$readConfig$2(57)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+2025-11-30 13:05:33,306 [32mINFO [m [m[modloading-worker-0][m [mp.b.BYG.lambda$readConfig$2(57)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+2025-11-30 13:05:33,382 [32mINFO [m [m[modloading-worker-0][m [mp.b.BYG.readConfig(718)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/growing-patterns.json5" was read.
+2025-11-30 13:05:33,513 [32mINFO [m [m[modloading-worker-0][m [mp.b.BYG.readConfig(62)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/trades.json5" was read.
+2025-11-30 13:05:33,541 [32mINFO [m [m[modloading-worker-0][m [mp.b.BYG.readConfig(58)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/settings.json5" was read.
+2025-11-30 13:05:33,546 [32mINFO [m [m[modloading-worker-0][m [mp.b.BYG.readConfig(51)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/biomepedia.json5" was read.
+2025-11-30 13:05:33,655 [32mINFO [m [m[modloading-worker-0][m [mp.b.BYG.backUpDirectory(31)[m: Created compressed zip back up for "/workspaces/server-mc/servidor_minecraft/config/byg" in "/workspaces/server-mc/servidor_minecraft/config/byg/backups/last_working_configs_backup.zip"
+2025-11-30 13:05:33,674 [32mINFO [m [m[modloading-worker-0][m [mp.b.BYG.strippableLogsBYG(79)[m: BYG: Added strippable Blocks...
+2025-11-30 13:05:33,677 [32mINFO [m [m[main][m [mterralith.lambda$terraBlenderSetup$0(40)[m: Terrablender compatibility enabled
+2025-11-30 13:05:33,698 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region minecraft:overworld to index 0 for type OVERWORLD
+2025-11-30 13:05:33,699 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region minecraft:nether to index 0 for type NETHER
+2025-11-30 13:05:33,699 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region terralith:overworld to index 1 for type OVERWORLD
+2025-11-30 13:05:33,844 [32mINFO [m [m[main][m [mjourneymap.lambda$commonSetupEvent$5(160)[m: Initializing Packet Registries
+2025-11-30 13:05:33,915 [32mINFO [m [m[main][m [mp.b.BYG.lambda$static$0(16)[m: Initializing BYG network...
+2025-11-30 13:05:33,929 [32mINFO [m [m[main][m [mp.b.BYG.lambda$static$0(22)[m: Initialized BYG network!
+2025-11-30 13:05:33,966 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region byg:region_0 to index 2 for type OVERWORLD
+2025-11-30 13:05:33,969 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region byg:region_1 to index 3 for type OVERWORLD
+2025-11-30 13:05:33,973 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region byg:region_2 to index 4 for type OVERWORLD
+2025-11-30 13:05:33,976 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region byg:region_3 to index 5 for type OVERWORLD
+2025-11-30 13:05:34,046 [32mINFO [m [m[modloading-worker-0][m [mWTHIT.loadPlugins(25)[m: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.forge.ForgePlugins.Core
+2025-11-30 13:05:34,066 [32mINFO [m [m[modloading-worker-0][m [mWTHIT.loadPlugins(25)[m: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.forge.ForgePlugins.Vanilla
+2025-11-30 13:05:34,108 [32mINFO [m [m[modloading-worker-0][m [mWTHIT.reload(87)[m: [WTHIT] Plugin config reloaded
+2025-11-30 13:05:34,115 [32mINFO [m [m[main][m [mp.b.BYG.compostablesBYG(236)[m: BYG: Compostable Blocks Added!
+2025-11-30 13:05:34,119 [32mINFO [m [m[main][m [mp.b.BYG.tillablesBYG(25)[m: BYG: Added tillables!
+2025-11-30 13:05:34,124 [32mINFO [m [m[main][m [mp.b.BYG.flammablesBYG(371)[m: BYG: Added Flammables!
+2025-11-30 13:05:34,130 [32mINFO [m [m[main][m [mp.b.BYG.threadSafeLoadFinish(139)[m: BYG: "Load Complete" Event Complete!
+2025-11-30 13:05:37,403 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(72)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+2025-11-30 13:05:39,428 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/server-mc/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2371!/assets/.mcassetsroot' uses unexpected schema
+2025-11-30 13:05:39,429 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/server-mc/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2371!/data/.mcassetsroot' uses unexpected schema
+2025-11-30 13:05:48,030 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2025-11-30 13:05:48,032 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2025-11-30 13:05:48,041 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-11-30 13:05:48,042 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-11-30 13:05:48,047 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2025-11-30 13:06:00,959 [32mINFO [m [m[Worker-Main-5][m [mn.m.w.i.c.RecipeManager.m_5787_(85)[m: Loaded 7 recipes
+2025-11-30 13:06:04,935 [32mINFO [m [m[main][m [mp.b.BYG.readConfig(119)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/nether-biomes.json5" was read.
+2025-11-30 13:06:04,961 [32mINFO [m [m[main][m [mp.b.BYG.readConfig(118)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/end-biomes.json5" was read.
+2025-11-30 13:06:05,023 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(150)[m: Starting minecraft server version 1.18.2
+2025-11-30 13:06:05,024 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(155)[m: Loading properties
+2025-11-30 13:06:05,024 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(172)[m: Default game type: SURVIVAL
+2025-11-30 13:06:05,024 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1286)[m: Generating keypair
+2025-11-30 13:06:05,404 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(183)[m: Starting Minecraft server on *:25565
+2025-11-30 13:06:05,482 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(79)[m: Using epoll channel type
+2025-11-30 13:06:05,704 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(195)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-11-30 13:06:05,704 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(196)[m: The server will make no attempt to authenticate usernames. Beware.
+2025-11-30 13:06:05,704 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(197)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-11-30 13:06:05,707 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(198)[m: To change this, set "online-mode" to "true" in the server.properties file.
+2025-11-30 13:06:05,841 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.18.2-dev (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT, Forge version 40.3.10)
+2025-11-30 13:06:07,664 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
+2025-11-30 13:06:07,668 [32mINFO [m [m[Server thread][m [m.playerSample(274)[m: Server Ping Player Sample Count: 12
+2025-11-30 13:06:07,675 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
+2025-11-30 13:06:07,769 [32mINFO [m [m[Server thread][m [mjourneymap.load(43)[m: Loading JourneyMap Forge Configs
+2025-11-30 13:06:07,770 [32mINFO [m [m[Thread-0][m [mjourneymap.load(43)[m: Loading JourneyMap Forge Configs
+2025-11-30 13:06:07,771 [32mINFO [m [m[Thread-0][m [mjourneymap.load(43)[m: Loading JourneyMap Forge Configs
+2025-11-30 13:06:09,009 [32mINFO [m [m[Server thread][m [mterrablender.initializeBiomes(115)[m: Initialized TerraBlender biomes for level stem minecraft:overworld
+2025-11-30 13:06:09,012 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(224)[m: Preparing level "world"
+2025-11-30 13:06:09,369 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:overworld
+2025-11-30 13:06:12,188 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:12,223 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:12,265 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:12,303 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:12,314 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:12,323 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:12,370 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:12,874 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:13,378 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:13,873 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:14,498 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:14,874 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:15,375 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 3%
+2025-11-30 13:06:15,894 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 9%
+2025-11-30 13:06:16,370 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 20%
+2025-11-30 13:06:16,873 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 21%
+2025-11-30 13:06:17,373 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 32%
+2025-11-30 13:06:17,871 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 41%
+2025-11-30 13:06:19,117 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 70%
+2025-11-30 13:06:19,120 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 70%
+2025-11-30 13:06:19,479 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 10110 ms
+2025-11-30 13:06:19,569 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:the_end
+2025-11-30 13:06:20,174 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:20,179 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:20,571 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:21,079 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:21,571 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:22,073 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2025-11-30 13:06:22,571 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 23%
+2025-11-30 13:06:23,071 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 68%
+2025-11-30 13:06:23,541 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 3971 ms
+2025-11-30 13:06:23,553 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:the_nether
+2025-11-30 13:06:24,011 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:24,061 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:24,715 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:25,132 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:25,562 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-11-30 13:06:26,058 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2025-11-30 13:06:26,558 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2025-11-30 13:06:27,060 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2025-11-30 13:06:27,557 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 35%
+2025-11-30 13:06:28,199 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 4643 ms
+2025-11-30 13:06:28,226 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
+2025-11-30 13:06:28,248 [32mINFO [m [m[Server thread][m [mp.b.BYG.lambda$readConfig$2(57)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+2025-11-30 13:06:28,256 [32mINFO [m [m[Server thread][m [mp.b.BYG.lambda$readConfig$2(57)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+2025-11-30 13:06:28,260 [32mINFO [m [m[Server thread][m [mp.b.BYG.lambda$readConfig$2(57)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+2025-11-30 13:06:28,289 [32mINFO [m [m[Server thread][m [mp.b.BYG.appendSurfaceRule(57)[m: Loading dimension "minecraft:the_nether" with biome source: "byg:nether".
+2025-11-30 13:06:28,290 [32mINFO [m [m[Server thread][m [mp.b.BYG.lambda$readConfig$2(57)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+2025-11-30 13:06:28,296 [32mINFO [m [m[Server thread][m [mp.b.BYG.lambda$readConfig$2(57)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+2025-11-30 13:06:28,301 [32mINFO [m [m[Server thread][m [mp.b.BYG.lambda$readConfig$2(57)[m: "/workspaces/server-mc/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+2025-11-30 13:06:28,321 [32mINFO [m [m[Server thread][m [mp.b.BYG.appendSurfaceRule(57)[m: Loading dimension "minecraft:the_end" with biome source: "byg:end".
+2025-11-30 13:06:28,325 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(228)[m: Done (20.576s)! For help, type "help"
+2025-11-30 13:06:28,405 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
+2025-11-30 13:06:28,408 [32mINFO [m [m[Server thread][m [mWTHIT.reload(87)[m: [WTHIT] Plugin config reloaded
+2025-11-30 13:06:37,554 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(737)[m: Stopping server
+2025-11-30 13:06:37,557 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(749)[m: Saving players
+2025-11-30 13:06:37,658 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(755)[m: Saving worlds
+2025-11-30 13:06:43,844 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(673)[m: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+2025-11-30 13:06:48,093 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(673)[m: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+2025-11-30 13:06:48,124 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(673)[m: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+2025-11-30 13:06:48,333 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(694)[m: ThreadedAnvilChunkStorage (world): All chunks are saved
+2025-11-30 13:06:48,341 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(694)[m: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+2025-11-30 13:06:48,344 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(694)[m: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+2025-11-30 13:06:48,345 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(697)[m: ThreadedAnvilChunkStorage: All dimensions are saved
